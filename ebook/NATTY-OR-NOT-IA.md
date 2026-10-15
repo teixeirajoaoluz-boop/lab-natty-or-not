@@ -1,6 +1,6 @@
 <div align="center">
 
-![Capa do e-book](imagens/capa.png)
+![Capa do e-book](imagens/capa.webp)
 
 # 💪 Natty or Not?
 ### O Guia Definitivo para Reconhecer Conteúdo Gerado por IA
@@ -27,7 +27,7 @@
 
 ## Capítulo 1 — Natty or Not? A hype que virou metáfora
 
-![Capítulo 1](imagens/cap01.png)
+![Capítulo 1](imagens/cap01.webp)
 
 No fisiculturismo, a pergunta **"Natty or Not?"** virou meme: diante de um físico impressionante, a internet inteira se transforma em perita para decidir se aquele shape é **natural** ("natty") ou se teve uma "ajudinha" química. Vídeos de análise viralizam, comentários pegam fogo e todo mundo jura que tem o olho treinado.
 
@@ -49,7 +49,8 @@ Este e-book tem três objetivos:
 
 ## Capítulo 2 — O "shape" das IAs Generativas
 
-![Capítulo 2](imagens/cap02.png)
+<!-- Imagem pendente: salve imagens/cap02.webp e descomente a linha abaixo -->
+<!-- ![Capítulo 2](imagens/cap02.webp) -->
 
 IA Generativa é o ramo da Inteligência Artificial capaz de **criar conteúdo novo** — texto, imagem, áudio, vídeo, código — a partir de padrões aprendidos em grandes volumes de dados. Pense nela como um atleta que treinou com milhões de exemplos e agora consegue "executar o movimento" sozinho.
 
@@ -85,7 +86,8 @@ A qualidade do resultado depende muito do **prompt** — a instrução que você
 
 ## Capítulo 3 — Sinais de "Fake Natty": como identificar conteúdo de IA
 
-![Capítulo 3](imagens/cap03.png)
+<!-- Imagem pendente: salve imagens/cap03.webp e descomente a linha abaixo -->
+<!-- ![Capítulo 3](imagens/cap03.webp) -->
 
 Assim como os "analistas" de shape procuram sinais reveladores, nós também podemos treinar o olhar. **Atenção:** as IAs evoluem rápido e nenhum sinal isolado é prova definitiva. Use o conjunto de pistas — e o bom senso.
 
@@ -123,6 +125,16 @@ Assim como os "analistas" de shape procuram sinais reveladores, nós também pod
 - [ ] **Física estranha** — objetos que atravessam outros, mãos que se deformam em movimento;
 - [ ] **Origem** — quem publicou primeiro? Existe a mesma notícia em veículos confiáveis?
 
+### 🔍 Teste com as imagens deste e-book
+
+Todas as imagens deste e-book foram geradas por IA. Volte a elas com o checklist na mão e repare:
+
+- **Capítulo 1:** no halteres do canto esquerdo, o "30" vira **"3C"**; o cartaz diz *"DISCIPLINA CONSTROI RESULTADOS"*, **sem o acento** de "constrói"; e o físico da direita tem a pele **brilhante e uniforme demais**, como plástico envernizado.
+- **Capítulo 5:** a etiqueta "TRANSPARÊNCIA" **flutua no ar**, ligando a coqueteleira ao chip como se fosse uma interface. Isso não existe no mundo físico.
+- **Conclusão:** o robô tem o selo **"AI" repetido** no peito, um impresso e outro colado ao lado, e o texto do cartaz mistura inglês com a garrafa em português.
+
+> 💡 Repare: são detalhes pequenos. À primeira vista, todas parecem fotos profissionais. É exatamente por isso que o olhar treinado importa.
+
 ### 🧰 Ferramentas para checar
 
 - **Busca reversa de imagens** (Google Lens, TinEye) para encontrar a origem;
@@ -133,7 +145,7 @@ Assim como os "analistas" de shape procuram sinais reveladores, nós também pod
 
 ## Capítulo 4 — Quiz: Natty or Not?
 
-![Capítulo 4](imagens/cap04.png)
+![Capítulo 4](imagens/cap04.webp)
 
 Hora de testar o olho clínico! Leia cada situação e decida: **Natty 🟢** (provavelmente real) ou **Not 🔴** (provavelmente IA)? As respostas estão logo abaixo — sem espiar! 👀
 
@@ -165,7 +177,7 @@ Hora de testar o olho clínico! Leia cada situação e decida: **Natty 🟢** (p
 
 ## Capítulo 5 — Suplemento, não substituto: IA com ética
 
-![Capítulo 5](imagens/cap05.png)
+![Capítulo 5](imagens/cap05.webp)
 
 No mundo fitness, existe uma diferença clara entre **suplemento** (whey, creatina — ajudam o treino) e **atalho escondido** (o que gera o "Not Natty" não assumido). Com IA vale a mesma lógica: o problema não é usar, é **esconder** ou **usar para enganar**.
 
@@ -190,7 +202,7 @@ No mundo fitness, existe uma diferença clara entre **suplemento** (whey, creati
 
 ## Conclusão
 
-![Conclusão](imagens/conclusao.png)
+![Conclusão](imagens/conclusao.webp)
 
 A pergunta **"Natty or Not?"** nunca foi tão relevante. As IAs Generativas são ferramentas incríveis para criar, aprender e trabalhar — e justamente por isso precisamos de **olhar crítico** para consumir conteúdo e de **ética** para produzi-lo.
 

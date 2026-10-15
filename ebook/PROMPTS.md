@@ -38,17 +38,17 @@ alguma afirmação técnica imprecisa. Aponte as alterações feitas.
 
 ## 🖼️ Prompts de Imagem
 
-> **Dicas:** use proporção **16:9** para os capítulos e **2:3** (retrato) para a capa. No Leonardo AI, modelos fotorrealistas (ex.: *Leonardo Phoenix* / *PhotoReal*) funcionam bem; no DALL·E/ChatGPT, basta colar o prompt. Salve cada imagem em [`imagens/`](imagens/) com o nome indicado.
+> **Dicas:** use proporção **16:9** para os capítulos e **2:3** (retrato) para a capa. No Leonardo AI, modelos fotorrealistas (ex.: *Leonardo Phoenix* / *PhotoReal*) funcionam bem; no DALL·E/ChatGPT, basta colar o prompt. Salve cada imagem em [`imagens/`](imagens/) com o nome indicado (`.webp` ou `.png`, ajustando a referência no e-book).
 
 | Arquivo | Uso | Prompt |
 |---|---|---|
-| `capa.png` | Capa (2:3) | *Hyper-realistic editorial photo of a muscular bodybuilder posing on a competition stage, half of his body is natural human skin and the other half dissolves into glowing blue digital pixels and neural network lines, dramatic stage lighting, dark background, magazine cover style, 85mm lens, shallow depth of field* |
-| `cap01.png` | Cap. 1 — A hype | *Two bodybuilders flexing side by side in an old-school gym, one looks naturally real and the other has a subtle glossy synthetic CGI look, a big question mark made of neon light between them, cinematic lighting, photorealistic* |
-| `cap02.png` | Cap. 2 — O shape da IA | *A futuristic gym where a humanoid AI robot lifts dumbbells shaped like icons of text, image, audio waveform and video play button, clean modern aesthetic, soft blue and orange lighting, photorealistic 3D render* |
-| `cap03.png` | Cap. 3 — Sinais | *Close-up of a detective with a magnifying glass inspecting a printed portrait photo where the hand has six fingers, desk with notes and a laptop, warm film-noir lighting, highly detailed, photorealistic* |
-| `cap04.png` | Cap. 4 — Quiz | *Bodybuilding competition judges' table with scorecards reading "NATTY" and "NOT", judges holding paddles, spotlight on stage, playful but realistic photography* |
-| `cap05.png` | Cap. 5 — Ética | *A protein shake bottle and a glowing AI chip side by side on a gym bench, labeled with a clean "transparency" tag, minimalist product photography, soft studio lighting, white background* |
-| `conclusao.png` | Conclusão | *A person and a friendly AI robot fist-bumping in a bright modern gym at sunrise, motivational atmosphere, golden hour light, photorealistic, wide shot* |
+| `capa.webp` ✅ | Capa (2:3) | *Hyper-realistic editorial photo of a muscular bodybuilder posing on a competition stage, half of his body is natural human skin and the other half dissolves into glowing blue digital pixels and neural network lines, dramatic stage lighting, dark background, magazine cover style, 85mm lens, shallow depth of field* |
+| `cap01.webp` ✅ | Cap. 1 — A hype | *Two bodybuilders flexing side by side in an old-school gym, one looks naturally real and the other has a subtle glossy synthetic CGI look, a big question mark made of neon light between them, cinematic lighting, photorealistic* |
+| `cap02.webp` ⏳ pendente | Cap. 2 — O shape da IA | *A futuristic gym where a humanoid AI robot lifts dumbbells shaped like icons of text, image, audio waveform and video play button, clean modern aesthetic, soft blue and orange lighting, photorealistic 3D render* |
+| `cap03.webp` ⏳ pendente | Cap. 3 — Sinais | *Close-up of a detective with a magnifying glass inspecting a printed portrait photo where the hand has six fingers, desk with notes and a laptop, warm film-noir lighting, highly detailed, photorealistic* |
+| `cap04.webp` ✅ | Cap. 4 — Quiz | *Bodybuilding competition judges' table with scorecards reading "NATTY" and "NOT", judges holding paddles, spotlight on stage, playful but realistic photography* |
+| `cap05.webp` ✅ | Cap. 5 — Ética | *A protein shake bottle and a glowing AI chip side by side on a gym bench, labeled with a clean "transparency" tag, minimalist product photography, soft studio lighting, white background* |
+| `conclusao.webp` ✅ | Conclusão | *A person and a friendly AI robot fist-bumping in a bright modern gym at sunrise, motivational atmosphere, golden hour light, photorealistic, wide shot* |
 
 ### Prompt negativo sugerido (Leonardo AI / Stable Diffusion)
 ```text

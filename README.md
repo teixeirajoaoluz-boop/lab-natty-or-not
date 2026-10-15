@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Capa do e-book](ebook/imagens/capa.png)
+![Capa do e-book](ebook/imagens/capa.webp)
 
 </div>
 
@@ -42,6 +42,15 @@ O que você encontra no e-book:
 | 3 — Sinais de "Fake Natty" | Checklist prático para identificar conteúdo gerado por IA |
 | 4 — Quiz: Natty or Not? | 6 situações do cotidiano para testar o olho clínico |
 | 5 — Suplemento, não substituto | IA com ética e transparência |
+
+### 🖼️ Galeria (imagens geradas por IA)
+
+| | |
+|:---:|:---:|
+| ![Natural vs. sintético](ebook/imagens/cap01.webp) | ![Jurados Natty or Not](ebook/imagens/cap04.webp) |
+| *Cap. 1 — Natty or Not?* | *Cap. 4 — Quiz* |
+| ![Whey e chip de IA](ebook/imagens/cap05.webp) | ![Humano e robô](ebook/imagens/conclusao.webp) |
+| *Cap. 5 — Suplemento, não substituto* | *Conclusão* |
 
 ## 💭 Reflexão
 
